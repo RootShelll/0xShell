@@ -1,5 +1,3 @@
-İşte içerik, GitHub `README.md` formatında, emoji ve geniş açıklamalarla birlikte İngilizce olarak çevrilmiştir:
-
 ```markdown
 # 0xShell - Web Server Management Tool
 
@@ -28,7 +26,7 @@
 ## 🛠️ Installation & Usage
 
 1. **Download the Files**  
-   Download the latest version of 0xShell from its [GitHub repository](https://github.com/KinG-InFeT/0xShell).
+   Download the latest version of 0xShell from its [GitHub repository](https://github.com/RootShelll/0xShell).
 
 2. **Upload to Your Server**  
    Upload the `0xShell.php` file to the root directory of your server or any accessible directory.
@@ -105,8 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌐 Official Links
 
-- [GitHub Repository](https://github.com/KinG-InFeT/0xShell)
-- [Documentation](https://github.com/KinG-InFeT/0xShell/wiki)
+- [GitHub Repository](https://github.com/RootShelll)
+- [Documentation](https://github.com/RootShelll/0xShell/wiki)
 
 Feel free to contribute and open issues if you encounter any problems! We appreciate your support in making 0xShell better.
-```
+
