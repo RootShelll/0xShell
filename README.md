@@ -110,5 +110,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to contribute and open issues if you encounter any problems! We appreciate your support in making 0xShell better.
 ```
-
-Bu metin, GitHub `README.md` formatında, kullanıcılar için kolayca anlaşılabilir şekilde emoji kullanarak açıklamalarla birlikte yazıldı. Bu, kullanıcıların her bir özelliği ve kurulum adımını hızlıca kavrayabilmesi için açıklayıcı ve dikkat çekici hale getirildi.
