@@ -1,3 +1,6 @@
+
+![0xShell Web Shell](https://r00t-shell.com/wp-content/uploads/2025/02/0xShell.png)
+
 ```markdown
 # 0xShell - Web Server Management Tool
 
